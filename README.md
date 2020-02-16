@@ -4,7 +4,7 @@ Demo App with Go and go-qamel (QT/QML)
 Simple demo app for [go-qamel](https://github.com/go-qamel/qamel)
 
 # Setup
-Follow the [instructions from the gamel project](https://github.com/go-qamel/qamel/wiki/Installation)
+Follow the [instructions from the qamel project](https://github.com/go-qamel/qamel/wiki/Installation)
 
 Example qamel profile:  
 ```
