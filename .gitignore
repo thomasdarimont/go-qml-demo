@@ -1,0 +1,6 @@
+go-qml-demo
+qamel-*
+moc-qamel-*
+vendor/
+.idea/
+go.sum
